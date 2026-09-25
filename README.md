@@ -1,11 +1,6 @@
-## Hi there 👋
 # `rian@github:~$`
-
-# `rian@github:~$`
-
 > CSE student learning by building.
-
-I'm currently exploring software development, Linux, AI/ML, cybersecurity, and cloud technologies.
+> currently exploring software development, Linux, AI/ML, cybersecurity, and cloud technologies.
 
 ```bash
 $ whoami
