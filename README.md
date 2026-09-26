@@ -26,11 +26,13 @@ Learn → Build → Break → Fix → Repeat
 
 A small collection for now — more coming as I build.
 
-* **[Your Project]** — short description
+* **RepoMirror** — An web application that evaluates public GitHub repositories and provides honest feedback, actionable guidance, and personalized roadmaps for improvement.[Github Repository](https://github.com/Rianrx77/RepoMirror-GitGrade-Hackathon-rr)
+
+* **Veritas** - AI‑Powered Real‑Time News, Sentiment & Divergence Dashboard. [Github Repository](https://github.com/Rianrx77/veritas)
 
 ### Find me
 
-[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/rian-renju-96b1142b3/) · [Email](mailto:rianrenju.tech@gmail.com)
 
 ---
 
