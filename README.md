@@ -32,7 +32,7 @@ A small collection for now — more coming as I build.
 
 ### Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-renju-96b1142b3/) · [Email](mailto:rianrenju.tech@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rian-renju-96b1142b3/) · [Email](mailto:rianrenju.tech@gmail.com)
 
 ---
 
